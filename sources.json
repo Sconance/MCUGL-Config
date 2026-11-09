@@ -1,0 +1,10 @@
+
+{
+  "schemaVersion": 1,
+  "resources": {
+    "announcements": {
+      "primary": "https://636c-cloud-d2gxgxalx5f35f7fb-1505485079.tcb.qcloud.la/announcements/",
+      "mirrors": []
+    }
+  }
+}
